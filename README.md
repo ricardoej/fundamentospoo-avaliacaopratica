@@ -23,8 +23,6 @@ A concessionária "AutoVendas" deseja informatizar o registro dos veículos disp
   - `tipoCombustivel`: Tipo de combustível usado pelo carro (por exemplo, gasolina, etanol).
 
 - **Ações:**
-  - **Registrar Veículo:** Adicionar um novo veículo ao catálogo da concessionária.
-    - *Descrição:* Esta ação deve permitir o registro das informações básicas do veículo, como marca, modelo, ano e preço.
   - **Exibir Detalhes do Veículo:** Exibir as informações detalhadas sobre o veículo.
     - *Descrição:* Esta ação deve permitir a visualização de todas as informações do veículo, encapsulando os detalhes específicos.. Imprimir na tela os atributos do carro.
   - **Calcular Valor de Seguro:** Calcular o valor do seguro para o carro.
@@ -41,8 +39,6 @@ A concessionária "AutoVendas" deseja informatizar o registro dos veículos disp
   - `tipoTransmissao`: Tipo de transmissão da moto (por exemplo, manual, automática).
 
 - **Ações:**
-  - **Registrar Veículo:** Adicionar um novo veículo ao catálogo da concessionária.
-    - *Descrição:* Esta ação deve permitir o registro das informações básicas do veículo, como marca, modelo, ano e preço.
   - **Exibir Detalhes do Veículo:** Exibir as informações detalhadas sobre o veículo.
     - *Descrição:* Esta ação deve permitir a visualização de todas as informações do veículo, encapsulando os detalhes específicos. Imprimir na tela os atributos da moto.
   - **Calcular Valor de Seguro:** Calcular o valor do seguro para a moto.
